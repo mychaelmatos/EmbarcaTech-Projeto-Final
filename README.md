@@ -3,10 +3,7 @@
 Este projeto é um sistema embarcado desenvolvido para a plataforma Raspberry Pi Pico que realiza o controle automático de uma bomba d'água, monitorando os níveis de água em um poço e um tanque principal.
 
 ## Link do vídeo de demonstração e explicação
-[Inserir link do vídeo aqui]
-
-## Link para demonstração no simulador WOKWI
-[Inserir link do WOKWI aqui]
+https://youtu.be/D99JcVXwWBI
 
 ## Descrição
 
